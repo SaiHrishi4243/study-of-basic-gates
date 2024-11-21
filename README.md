@@ -91,7 +91,7 @@ endmodule
 
 **RTL**
 
-![RTL](https://github.com/user-attachments/assets/9f01e69b-0bc6-44c1-8ccd-1ff572cefb14)
+![RTL](https://github.com/user-attachments/assets/6c6d4810-24bd-4f3c-a2ff-ae2c9680460f)
 
 **Result:**
 
