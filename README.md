@@ -87,11 +87,11 @@ endmodule
 
 **RTL realization Output:**
 
-![RTL Realization Output](https://github.com/user-attachments/assets/d15262b2-8cc9-4013-848e-3b1af1bafcfc)
+![RTL Realization Output](https://github.com/user-attachments/assets/2402f2c1-c36a-4e45-93ee-023e74401dd9)
 
 **RTL**
 
-![RTL](https://github.com/user-attachments/assets/896bc1c1-aa70-4643-bece-fe0192115661)
+![RTL](https://github.com/user-attachments/assets/9f01e69b-0bc6-44c1-8ccd-1ff572cefb14)
 
 **Result:**
 
